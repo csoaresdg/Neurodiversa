@@ -2,7 +2,7 @@
 Projeto Final {Reprograma} 
 
 ## Descrição do Projeto
-<p align="left">Pagina com intuito Informativo que visa conscientizar sobre a importância do diagnóstico neurodiverso focado em TDAH.
+<p>Pagina com intuito Informativo que visa conscientizar sobre a importância do diagnóstico neurodiverso focado em TDAH.</p>
 
 
 🚧 __Em Implementação__🚧 </h4>
@@ -11,13 +11,14 @@ Projeto Final {Reprograma}
 - Informar
 - Quiz - teste tdah asrs-18 (autoidentificação do usuário)
   
+## Protótipo Figma 
+
+
 
 layout seguindo a seguinte estrutura:
 Home, navebar, banner, e footer.
 
-<h1 align="left">
-  <img alt="Neurodiversidade" title="#tdah" src="../img/slide/slide_1.jpeg" />
-</h1>
+
 
 
 ### 🛠 Tecnologias:
